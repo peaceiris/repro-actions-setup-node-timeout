@@ -1,7 +1,9 @@
 # repro-actions-setup-node-timeout
 
+https://github.com/actions/setup-node/issues/1298
+
 ```
-npm install
+npm ci
 npm run dev
 ```
 
